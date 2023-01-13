@@ -1,9 +1,9 @@
-function EventSlugPage() {
+function FilteredEvents() {
   return (
     <div>
-      <h1>Event Slug Page</h1>
+      <h1>Filtered Events</h1>
     </div>
   );
 }
 
-export default EventSlugPage;
+export default FilteredEvents;
